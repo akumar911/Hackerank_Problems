@@ -1,3 +1,4 @@
+#Top Competitor 
 select h.hacker_id, h.name from hackers as h 
 join submissions as s
 on h.hacker_id = s.hacker_id
